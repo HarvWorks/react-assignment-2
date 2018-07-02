@@ -1,0 +1,10 @@
+////////////////////////////////////////////////////////////
+//                     Validation.js                      //
+////////////////////////////////////////////////////////////
+import React from 'react'
+
+const output = (props) => {
+    return <p>{props.value}</p>
+}
+
+export default output;
